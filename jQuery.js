@@ -6,6 +6,7 @@
 // @author       John Resig
 // @match        *://*/*
 // @icon         https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png
+// @run-at       document-start
 // @grant        none
 // ==/UserScript==
 
